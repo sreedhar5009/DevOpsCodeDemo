@@ -16,7 +16,7 @@ pipeline{
           stage('Compile'){
              
               steps{
-                  echo 'complie the code by sreedhar..'
+                  echo 'complie the code by sreedhar Reddy..'
                   sh 'mvn compile'
 	      }
           }
